@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Multiiple source BFS
+## Multiple source BFS
 
 In this project, I am trying to find a faster parallel algorithm for multiple source BFS. To acheive the parallelism, we are going to use GPUs. 
 
